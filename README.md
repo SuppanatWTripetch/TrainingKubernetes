@@ -1,1 +1,1 @@
-# TriningKubernetes
+# TrainingKubernetes
